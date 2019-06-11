@@ -1,1 +1,1 @@
-print("git is great")
+print("git is great but python is the best")
